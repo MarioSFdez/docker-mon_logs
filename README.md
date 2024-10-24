@@ -1,5 +1,4 @@
-# docker-mon_logs
-Docker Compose Stack con Grafana Loki, Promtail.  
+# Docker Compose Stack con Grafana Loki, Promtail.
 Esta configuración está diseñada para facilitar el monitoreo de sistemas mediante la recopilación, almacenamiento y visualización de registros.
 
 ## Despliegue
